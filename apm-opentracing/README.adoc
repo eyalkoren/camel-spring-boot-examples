@@ -5,7 +5,7 @@
 This example shows how to use Camel with OpenTracing to trace all
 incoming and outgoing Camel messages.
 
-The example uses a ElastiCo APM Client.
+This example uses the Elastic APM Java Agent's OpenTracing bridge.
 
 Route client -> service1 using HTTP.
 
